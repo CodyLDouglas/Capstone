@@ -1,6 +1,6 @@
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-Welcome to my Final Projet GitHub Repository
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= \\
+Welcome to my Final Projet GitHub Repository \\
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= \\
 
 The goal of this project was to use statistical modeling techniques, backed up with economic theory, to forecast wholesale beef prices. You will
 see two files in this repository, a zip and a pdf. Within the zip, you will find all of the code and the data involved in this project. If downloaded,
